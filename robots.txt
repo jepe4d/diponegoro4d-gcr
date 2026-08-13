@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://diponegoro4d-c50.pages.dev/sitemap.xml
